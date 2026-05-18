@@ -1,0 +1,8 @@
+dataset/
+checkpoints/
+logs/
+results/
+*.pth
+*.pt
+*.ckpt
+.env
