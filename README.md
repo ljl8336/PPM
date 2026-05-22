@@ -41,7 +41,7 @@ bash scripts/MLP/ETTh1.sh
 
 Please check the scripts for detailed configurations, including dataset name, prediction length, model settings, and training hyperparameters.
 
-## 7. Contacts
+## Contacts
 
 For questions about the paper or code, please contact:
 
