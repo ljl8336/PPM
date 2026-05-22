@@ -13,6 +13,9 @@ PPM is a probabilistic forecasting framework designed for non-stationary time se
 
 The framework aims to provide accurate and efficient probabilistic forecasting, especially under non-stationary dynamics.
 
+<img width="2223" height="883" alt="image" src="https://github.com/user-attachments/assets/4c6db43c-87e2-4ec4-98fe-b8ddc743805c" />
+
+
 
 ## Installation
 
