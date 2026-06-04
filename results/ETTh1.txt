@@ -1,0 +1,4 @@
+ETTh1_MLP_K100_MLP_ETTh1_ftM_sl96_ll0_pl192_dm256_nh8_el2_dl1_df512_fc3_ebtimeF_dtTrue_Exp_0  
+tau:0.1, var:0.3, K:100, QICE:1.4750%, CRPS:0.3369, mse:0.4474, mae:0.4326
+
+
