@@ -14,7 +14,7 @@ for var in 0.3; do
 for tau in 0.1; do
 for d_model in 256; do
 python -u run.py \
-        --is_training 0\
+        --is_training 1\
         --seed $random_seed \
         --root_path $root_path_name \
         --data_path $data_path_name \
